@@ -57,9 +57,9 @@ Busan Polytechnic High-Tech Course
 |<img src ="../main/image/로그인.png"  width="300" height="300">|<img src ="../main/image/관리자메인.png"  width="400" height="300">|<img src ="../main/image/직원메인.png"  width="400" height="300">|
 <br>
 
-|카테고리 리스트 & 추가|제품 리스트 & 추가|테이블 리스트 & 추가|직원 리스트 & 추가|
+|직원 추가|직원 정보 수정|직원 정보|직원 삭제|
 |:---:|:---:|:---:|:---:|
-|<img src ="../main/image/categoryList.png"  width="300" height="200">|<img src ="../main/image/productList3.png"  width="300" height="200">|<img src ="../main/image/table.png"  width="300" height="200">|<img src ="../main/image/staff.png"  width="300" height="200">|
+|<img src ="../main/image/직원추가.png"  width="300" height="200">|<img src ="../main/image/직원정보수정.png"  width="300" height="200">|<img src ="../main/image/직원정보.png"  width="300" height="200">|<img src ="../main/image/직원삭제.png"  width="300" height="200">|
 <br>
 
 |포스기|주문 수정|주방 화면|
