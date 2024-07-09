@@ -16,7 +16,7 @@
 MSSQL을 통하여 제작되었습니다.<br>
 <br><br>
 Reason for making: studying c#, winform(Guna.UI2), crystal report, MSSQL <br>
-Development period: 24.05.28~24.06.31<br>
+Development period: 24.06.30~24.07.07<br>
 Busan Polytechnic High-Tech Course
 <br>
 <br>
