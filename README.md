@@ -62,14 +62,20 @@ Busan Polytechnic High-Tech Course
 |<img src ="../main/image/직원추가.png"  width="300" height="200">|<img src ="../main/image/직원정보수정.png"  width="300" height="200">|<img src ="../main/image/직원정보.png"  width="300" height="200">|<img src ="../main/image/직원삭제.png"  width="300" height="200">|
 <br>
 
-|포스기|주문 수정|주방 화면|
+|예약 추가|예약 목록|예약 수정|
 |:---:|:---:|:---:|
-|<img src ="../main/image/POS.png"  width="300" height="200">|<img src ="../main/image/bill.png"  width="300" height="200">|<img src ="../main/image/KI.png"  width="300" height="200">|<img src ="../main/image/staff.png"  width="300" height="200">|
+|<img src ="../main/image/방문자 추가.png"  width="300" height="200">|<img src ="../main/image/방문자명단.png"  width="300" height="200">|<img src ="../main/image/방문자 수정.png"  width="300" height="200">|
 <br>
 
-|결산|메뉴판|주방 화면|주방 화면|
-|:---:|:---:|:---:|:---:|
-|<img src ="../main/image/result.png"  width="300" height="200">|<img src ="../main/image/result_menu.png"  width="150" height="300">|<img src ="../main/image/result_staff.png"   width="150" height="300">|<img src ="../main/image/result_sale.png"   width="150" height="300">|
+|통행증 발급|통행증 프린트|통행증|
+|:---:|:---:|:---:|
+|<img src ="../main/image/통행증발급.png"  width="300" height="200">|<img src ="../main/image/통행증프린트.png"  width="200" height="300">|<img src ="../main/image/통행증.png"   width="300" height="300">|<img src ="../main/image/result_sale.png"   width="150" height="300">|
+<br>
+
+|통행증 구분|빠른 조회|
+|:---:|:---:|
+|<img src ="../main/image/통행증구분.png"  width="300" height="200">|<img src ="../main/image/빠른조회.png"  width="200" height="300">|
+
 
 
 ## <img src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=googledocs&logoColor=black"/> 새로 알게된 점과 느낀점
