@@ -1,0 +1,41 @@
+create database gatePass;
+
+create table appUser(
+appuser_pk int identity(1,1) primary key,
+username varchar(250) not null,
+upass varchar(250) not null,
+urole varchar(50) not null,
+uenabled tinyint default 1 not null
+);
+
+create table employee(
+employee_pk int identity(1,1) primary key,
+ename varchar(250),
+hiredate datetime,
+contact bigint,
+gender varchar(50),
+eaddress varchar(350),
+city varchar(50),
+estate varchar(50),
+appuser_fk int not null,
+FOREIGN KEY(appuser_fk) REFERENCES appUser(appuser_pk)
+);
+
+create table visitors(
+visitors_pk int identity(1,1) primary key,
+vname varchar(250),
+contact bigint,
+gender varchar(50),
+vaddress varchar(350),
+uniqueId varchar(50),
+visitorId varchar(50)
+);
+
+create table pass(
+pass_pk int identity(1,1) primary key,
+passId varchar(50),
+validFrom Date,
+validTo Date,
+visitors_fk int not null,
+FOREIGN KEY(visitors_fk) REFERENCES visitors(visitors_pk)
+);
