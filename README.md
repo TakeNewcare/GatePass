@@ -69,23 +69,19 @@ Busan Polytechnic High-Tech Course
 
 |통행증 발급|통행증 프린트|통행증|
 |:---:|:---:|:---:|
-|<img src ="../main/image/통행증발급.png"  width="300" height="200">|<img src ="../main/image/통행증프린트.png"  width="200" height="300">|<img src ="../main/image/통행증.png"   width="300" height="300">|<img src ="../main/image/result_sale.png"   width="150" height="300">|
+|<img src ="../main/image/통행증발급.png"  width="300" height="200">|<img src ="../main/image/통행증프린트.png"  width="300" height="300">|<img src ="../main/image/통행증.png"   width="300" height="300">|<img src ="../main/image/result_sale.png"   width="150" height="300">|
 <br>
 
 |통행증 구분|빠른 조회|
 |:---:|:---:|
-|<img src ="../main/image/통행증구분.png"  width="300" height="200">|<img src ="../main/image/빠른조회.png"  width="200" height="300">|
+|<img src ="../main/image/통행증구분.png"  width="300" height="200">|<img src ="../main/image/빠른조회.png"  width="300" height="200">|
 
 
 
-## <img src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=googledocs&logoColor=black"/> 새로 알게된 점과 느낀점
-첫날 처음 작업해본 데이터베이스 연동 과정이 생각보다 오래 걸려 매일 새벽 4~5까지 작업한게 힘들었지만,
-힘들게 얻어낸 지식들로 막힌 부분이 돌아가는 그 순간, 어릴 때 어려운 수학문제 혼자 고민하고 고민하다 해결했을 때의 기분을 다시 한번 느꼈고
-그렇게 얻은 것들을 같이 배우는 사람에게 도움을 줄 수 있어서 좋았습니다.
-
-이미지를 바이트 배열 형태로 다루는 부분과 데이터 베이스와 주고 받는 방식에 대해 새로 배울 수 있었습니다.<br>
-해당 프로젝트에서는 이미지를 데이터베이스에만 저장하는 형식이지만 <br>현재 진행 중인 프로젝트에서는 이미지를 프로젝트 내부에 폴더를 생성하여 저장하는 방식이며,<br>
-데이터 베이스 또한 Dataset이라는 객체와 인덱스 번호만을 가지고 이용하는 방식이라 다양한 경험이 필요하다고 느꼈습니다.
+## <img src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=googledocs&logoColor=black"/> 개선한 부분
+서버에서 데이터를 가져와 Dataset을 이용해 DataGridView에 그대로 붙여넣는 코드는 사용자 관점에서 불필요한 부분이 많았습니다.<br><br>
+DataGridView의 열 항목을 편집하여 모든 데이터를 받아오는 대신, 열과 데이터를 연결하고 필요한 부분만 보이게 개선하였습니다.<br>
+이때, DataGridView의 행이 생성되지 않는 문제로 인해 데이터 추가 시 기존 데이터에 덮어져 보이지 않은 문제를 행 생성 코드로 해결하였습니다.
 <br>
 
 
