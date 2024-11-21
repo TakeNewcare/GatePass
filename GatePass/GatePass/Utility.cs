@@ -21,9 +21,6 @@ namespace GatePass
             // 입력된 키가 제어문자 또는 숫자가 아닌 경우
             if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))  
             {
-                // e.KeyChar는 사용자가 입력한 키를 나타내는 문자
-                // char.IsControl(e.KeyChar) : 입력된 키가 제어 문자인지 확인.(제어 문자 : Backspace, Delete 등의 키)
-                //char.IsDigit(e.KeyChar): 입력된 키가 숫자인지 확인합니다.
 
                 e.Handled = true;  // 해당 키 입력을 무시하고 더 이상 다른 이벤트 처리기에게 전달되는 것을 막는다.
             }

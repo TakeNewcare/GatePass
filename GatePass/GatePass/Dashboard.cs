@@ -36,13 +36,13 @@ namespace GatePass
             {
                 employeeToolStripMenuItem.Visible = true;       // 관리자 => 직원 탭 보이기
                 backgroundName = "gatePassBg1"; // 배경 이름 설정
-                labelWelcomeText.Text = "관리자 대시보드";
+                labelWelcomeText.Text = "관리자";
             }
             else
             {
                 employeeToolStripMenuItem.Visible = false;      // 관리자x => 직원 탭 숨기기
                 backgroundName = "gatePassBg2"; // 배경 이름 설정
-                labelWelcomeText.Text = "직원 대시보드";
+                labelWelcomeText.Text = "직원";
             }
 
             // 로그인한 직책에 맞게 이미지 이름을 정하고 해당 이미지를 백그라운드로 설정한다.

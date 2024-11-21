@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Downloads\\GatePass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F09C0714-14F8-434F-86EE-9205708A26FC}|GatePass\\GatePass.csproj|c:\\users\\admin\\downloads\\gatepass\\gatepass\\pass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09C0714-14F8-434F-86EE-9205708A26FC}|GatePass\\GatePass.csproj|solutionrelative:gatepass\\pass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09C0714-14F8-434F-86EE-9205708A26FC}|GatePass\\GatePass.csproj|c:\\users\\admin\\downloads\\gatepass\\gatepass\\pass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F09C0714-14F8-434F-86EE-9205708A26FC}|GatePass\\GatePass.csproj|solutionrelative:gatepass\\pass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09C0714-14F8-434F-86EE-9205708A26FC}|GatePass\\GatePass.csproj|c:\\users\\admin\\downloads\\gatepass\\gatepass\\generatepass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F09C0714-14F8-434F-86EE-9205708A26FC}|GatePass\\GatePass.csproj|solutionrelative:gatepass\\generatepass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09C0714-14F8-434F-86EE-9205708A26FC}|GatePass\\GatePass.csproj|c:\\users\\admin\\downloads\\gatepass\\gatepass\\generatepass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09C0714-14F8-434F-86EE-9205708A26FC}|GatePass\\GatePass.csproj|solutionrelative:gatepass\\generatepass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09C0714-14F8-434F-86EE-9205708A26FC}|GatePass\\GatePass.csproj|c:\\users\\admin\\downloads\\gatepass\\gatepass\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F09C0714-14F8-434F-86EE-9205708A26FC}|GatePass\\GatePass.csproj|solutionrelative:gatepass\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09C0714-14F8-434F-86EE-9205708A26FC}|GatePass\\GatePass.csproj|c:\\users\\admin\\downloads\\gatepass\\gatepass\\addvisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F09C0714-14F8-434F-86EE-9205708A26FC}|GatePass\\GatePass.csproj|solutionrelative:gatepass\\addvisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09C0714-14F8-434F-86EE-9205708A26FC}|GatePass\\GatePass.csproj|c:\\users\\admin\\downloads\\gatepass\\gatepass\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F09C0714-14F8-434F-86EE-9205708A26FC}|GatePass\\GatePass.csproj|solutionrelative:gatepass\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09C0714-14F8-434F-86EE-9205708A26FC}|GatePass\\GatePass.csproj|c:\\users\\admin\\downloads\\gatepass\\gatepass\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09C0714-14F8-434F-86EE-9205708A26FC}|GatePass\\GatePass.csproj|solutionrelative:gatepass\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09C0714-14F8-434F-86EE-9205708A26FC}|GatePass\\GatePass.csproj|c:\\users\\admin\\downloads\\gatepass\\gatepass\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09C0714-14F8-434F-86EE-9205708A26FC}|GatePass\\GatePass.csproj|solutionrelative:gatepass\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09C0714-14F8-434F-86EE-9205708A26FC}|GatePass\\GatePass.csproj|c:\\users\\admin\\downloads\\gatepass\\gatepass\\addvisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09C0714-14F8-434F-86EE-9205708A26FC}|GatePass\\GatePass.csproj|solutionrelative:gatepass\\addvisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09C0714-14F8-434F-86EE-9205708A26FC}|GatePass\\GatePass.csproj|c:\\users\\admin\\downloads\\gatepass\\gatepass\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09C0714-14F8-434F-86EE-9205708A26FC}|GatePass\\GatePass.csproj|solutionrelative:gatepass\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pass.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\GatePass\\GatePass\\Pass.cs",
+              "RelativeDocumentMoniker": "GatePass\\Pass.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\GatePass\\GatePass\\Pass.cs",
+              "RelativeToolTip": "GatePass\\Pass.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAHkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T05:58:33.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pass.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\GatePass\\GatePass\\Pass.cs",
+              "RelativeDocumentMoniker": "GatePass\\Pass.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\GatePass\\GatePass\\Pass.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "GatePass\\Pass.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T05:59:04.331Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GeneratePass.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\GatePass\\GatePass\\GeneratePass.cs",
+              "RelativeDocumentMoniker": "GatePass\\GeneratePass.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\GatePass\\GatePass\\GeneratePass.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "GatePass\\GeneratePass.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T05:44:26.147Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\GatePass\\GatePass\\Utility.cs",
+              "RelativeDocumentMoniker": "GatePass\\Utility.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\GatePass\\GatePass\\Utility.cs",
+              "RelativeToolTip": "GatePass\\Utility.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAwB4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T05:18:36.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddVisitor.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\GatePass\\GatePass\\AddVisitor.cs",
+              "RelativeDocumentMoniker": "GatePass\\AddVisitor.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\GatePass\\GatePass\\AddVisitor.cs",
+              "RelativeToolTip": "GatePass\\AddVisitor.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAuwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T05:12:28.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddVisitor.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\GatePass\\GatePass\\AddVisitor.cs",
+              "RelativeDocumentMoniker": "GatePass\\AddVisitor.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\GatePass\\GatePass\\AddVisitor.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "GatePass\\AddVisitor.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T05:12:35.739Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dashboard.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\GatePass\\GatePass\\Dashboard.cs",
+              "RelativeDocumentMoniker": "GatePass\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\GatePass\\GatePass\\Dashboard.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "GatePass\\Dashboard.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T05:12:15.066Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\GatePass\\GatePass\\Dashboard.cs",
+              "RelativeDocumentMoniker": "GatePass\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\GatePass\\GatePass\\Dashboard.cs",
+              "RelativeToolTip": "GatePass\\Dashboard.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAuwJAAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T04:20:27.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\GatePass\\GatePass\\Form1.cs",
+              "RelativeDocumentMoniker": "GatePass\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\GatePass\\GatePass\\Form1.cs",
+              "RelativeToolTip": "GatePass\\Form1.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAuwE4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T04:19:46.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\GatePass\\GatePass\\Form1.cs",
+              "RelativeDocumentMoniker": "GatePass\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\GatePass\\GatePass\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "GatePass\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T04:19:42.661Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GeneratePass.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\GatePass\\GatePass\\GeneratePass.cs",
+              "RelativeDocumentMoniker": "GatePass\\GeneratePass.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\GatePass\\GatePass\\GeneratePass.cs",
+              "RelativeToolTip": "GatePass\\GeneratePass.cs",
+              "ViewState": "AQIAAPgAAAAAAAAAAAAAwAsBAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T03:08:02.212Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
